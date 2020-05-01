@@ -1,0 +1,18 @@
+{
+    "name": "inpsyde/taskusers",
+    "description": "A WP plugin to list users for given source, as task by Insyde.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronak Dhoot",
+            "email": "ironakdhoot@gmail.com"
+        }
+    ],
+    "require": {
+        "datatables/datatables": "^1.10"
+    },
+    "require-dev": {
+        "inpsyde/php-coding-standards": "^0.13.4"
+    }
+}
